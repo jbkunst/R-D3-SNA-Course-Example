@@ -11,10 +11,10 @@ The index.html take the json file and show it with d3.js and jquery for make it 
 # The Networks
 Showing a 4 toy networks:
 
-	- Butterfly network
-	- Butterfly network
-	- Circular network
-	- Star network
-	- Linear network
+- Butterfly network
+- Butterfly network
+- Circular network
+- Star network
+- Linear network
 	
 The values for a node are calculated according 
