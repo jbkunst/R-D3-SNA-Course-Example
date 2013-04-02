@@ -17,4 +17,5 @@ Showing a 4 toy networks:
 - Star network
 - Linear network
 	
-The values for a node are calculated according 
+The values for a node are calculated according its own network. The nodes and links are not considered in the same big network.
+
