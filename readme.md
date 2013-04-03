@@ -12,7 +12,6 @@ The index.html take the json file and show it with d3.js and jquery for make it 
 Showing a 4 toy networks:
 
 - Butterfly network
-- Butterfly network
 - Circular network
 - Star network
 - Linear network
