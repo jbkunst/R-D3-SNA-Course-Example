@@ -85,7 +85,7 @@ llply(nets, betweenness_sna, norm = TRUE)
 # Closeness
 llply(nets, closeness)
 
-#  Eigenvector Centrality
+# Eigenvector Centrality
 llply(nets, evcent)
 
 
