@@ -9,7 +9,7 @@ data to json file.
 The index.html take the json file and show it with d3.js and jquery for make it interactive.
 
 # The Networks
-Showing a 4 toy networks:
+Showing 4 toy networks:
 
 - Butterfly network
 - Circular network
