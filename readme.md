@@ -1,6 +1,6 @@
 # Introduction
 A simple example using R and D3.js for show the examples of [SNA Course](https://class.coursera.org/sna-002/lecture/index) in Coursera. 
-Live example is [here](http://jkunst.com/media/r-d3-sna/index.html).
+Live example is [here](https://rawgit.com/jbkunst/R-D3-SNA-Course-Example/master/index.html).
 
 # Details
 First, a R script for generate the networks and atributes values of each node, then export the 
