@@ -1,6 +1,4 @@
-#################
-## Eclipse
-#################
+*.html
 
 *.pydevproject
 .project
